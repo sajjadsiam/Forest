@@ -70,7 +70,7 @@ header {
 
 #text {
   position: absolute;
-  font-size: 8em;
+  font-size: 6em;
   color: #fff;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
